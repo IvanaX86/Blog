@@ -4,13 +4,19 @@ import starlight from '@astrojs/starlight';
 // Themes
 import pagePlugin from "@pelagornis/page";
 
+// Plugins
+  import starlightBlog from 'starlight-blog'
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://blog.ivanax86.dev/',
 	integrations: [
 		starlight({
 			title: 'My Docs',
-      plugins: [pagePlugin()],
+      plugins: [
+        pagePlugin(),
+        starlightBlog()
+      ],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
