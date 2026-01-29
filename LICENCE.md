@@ -1,6 +1,15 @@
-MIT License (for code)
+Copyright (c) 2026-present Ivana Walencja Zrobczynska
 
-Copyright (c) 2026 Ivana Walencja Zrobczynska
+All written content, images, videos, and other non-software materials in this
+repository are licensed under the Creative Commons Attribution 4.0 International
+License (CC-BY 4.0).
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+-------------------------------------------------------------------------------
+
+The contents of the code and scripts in this repository are licensed under the
+MIT License:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -14,16 +23,8 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
----
-
-Creative Commons Attribution 4.0 International (for non-code content)
-
-All written content, documentation, images, videos, and other non-code materials
-in this repository are licensed under CC-BY 4.0.
-
-You are free to share and adapt the material for any purpose, provided you give
-appropriate credit.
-
-Full license: https://creativecommons.org/licenses/by/4.0/
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
