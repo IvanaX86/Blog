@@ -1,6 +1,6 @@
 ---
 title: Test
-date: 29/01/2026
+date: 2026-01-29
 ---
 
 # Test
